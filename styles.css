@@ -61,10 +61,14 @@ body {
     background-color: #ebebeb;
 
     color: #777;
-    padding: 60px 0;
+    padding: 20px 0 60px 0;
     float: left;
     width: 49%;
-    vertical-align: text-top;
+    /* vertical-align: text-top; */
+}
+
+.articleBox{
+    background-color: #777;
 }
 
 .rightAside {
@@ -77,9 +81,9 @@ body {
     
     color: #777;
     margin-bottom: auto;
-    padding: 60px 0;
-    height: 60px;
-    vertical-align: text-top;
+    padding: 20px 0 146px 0;
+    /* height: 60px; */
+    /* vertical-align: text-top; */
 }
 
 .bottomFooter {
