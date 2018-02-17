@@ -1,18 +1,23 @@
 
+*{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+}
+    
 body {
 
     /* Background color */
     background-color: #777;
 
     /* border color to see body */
-    border: 3px solid #00ff00;
+    /* border: 3px solid #00ff00; */
    
 }
 
 .topHeader {
 
     /* border color to see header */
-    border: 2px solid red;
+    /* border: 2px solid red; */
     
     /* Background color */
     background-color: #ebebeb;
@@ -27,7 +32,7 @@ body {
 .navBar {
 
     /* border color to see header */
-    border: 2px solid red;
+    /* border: 2px solid red; */
     
     /* Background color */
     background-color: #ebebeb;
@@ -42,7 +47,7 @@ body {
 .bodyDiv {
 
     /* border color to see div */
-    border: 1px solid red;
+    /* border: 1px solid red; */
     
     /* Background color */
     background-color: blue;
@@ -55,33 +60,69 @@ body {
 .leftSection {
 
     /* border color to see div */
-    border: 1px solid red;
+    /* border: 1px solid red; */
     
     /* Background color */
     background-color: #ebebeb;
 
     color: #777;
-    padding: 20px 0 60px 0;
+    padding: 20px 10px 10px 10px;
     float: left;
     width: 49%;
     /* vertical-align: text-top; */
 }
 
 .articleBox{
+
+    /* border color to see div */
+    /* border: 1px solid red; */
+    
+    /* Background color */
     background-color: #777;
+
+    color: #ebebeb;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 0 0 0;
+}
+
+.para1{
+
+    /* border color to see div */
+    /* border: 1px solid red; */
+    
+    /* Background color */
+    background-color: #ebebeb;
+
+    color: #777;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 0 10px;
+    font-weight: bold;
+}
+
+.para2{
+
+    /* border color to see div */
+    /* border: 1px solid red; */
+    
+    /* Background color */
+    background-color: #ebebeb;
+
+    color: #777;
+    padding: 10px 10px 10px 10px;
+    margin: 5px 10px 0 10px;
 }
 
 .rightAside {
 
     /* border color to see div */
-    border: 1px solid red;
+    /* border: 1px solid red; */
     
     /* Background color */
     background-color: #ebebeb;
     
     color: #777;
     margin-bottom: auto;
-    padding: 20px 0 146px 0;
+    padding: 20px 0 246px 0;
     /* height: 60px; */
     /* vertical-align: text-top; */
 }
@@ -89,7 +130,7 @@ body {
 .bottomFooter {
 
     /* border color to see div */
-    border: 1px solid red;
+    /* border: 1px solid red; */
     
     /* Background color */
     background-color: #ebebeb;
